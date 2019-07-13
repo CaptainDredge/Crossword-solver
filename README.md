@@ -21,16 +21,27 @@ The solution part of the input appears after the grid part. The first line of th
 Example 1
 Input
 5
+
 5,1
+
 1,1,3,1,5,1
+
 0,0
+
 1,1,3,1,5,1
+
 1,1
+
 5
+
 EVEN
+
 ACNE
+
 CALVE
+
 PLEAS
+
 EVADE
 
 Solution:
@@ -41,7 +52,9 @@ lines. The grid looks like this
 
 M=5, and there are 5 (M) solutions.
 If the grid is numbered according to the rules, the numbered grid loos like this.
-Note that row 3 has no blanks, and the input line says “0,0” ![image2](images/puzzle2.png)
+Note that row 3 has no blanks, and the input line says “0,0”
+
+![image2](images/puzzle2.png)
 
 The solutions are fitted to the grid so that they are consistent, and the result is shown below. Note that this is consistent, because the letter at each intersecting blank square in the Across solution and the Down solution.
 ![image3](images/puzzle1.png)
