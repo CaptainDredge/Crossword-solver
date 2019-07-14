@@ -57,6 +57,6 @@ Note that row 3 has no blanks, and the input line says “0,0”
 ![image2](images/puzzle2.png)
 
 The solutions are fitted to the grid so that they are consistent, and the result is shown below. Note that this is consistent, because the letter at each intersecting blank square in the Across solution and the Down solution.
-![image3](images/puzzle1.png)
+![image3](images/puzzle3.png)
 
 Based on this the output is given in clue number order. 1 Across is ACNE, and hence the first line of the output is 1,A,ACNE. The same logic gives all the remaining solutions.
